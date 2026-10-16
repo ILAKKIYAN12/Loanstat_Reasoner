@@ -1,6 +1,6 @@
-# ⚡ Trust the AI: 3D Interactive Explainable AI (XAI) Loan Approval Engine
+# ⚡ Loanstat Reasoner: 3D Interactive Explainable AI (XAI) Loan Approval Engine
 
-[![GitHub stars](https://img.shields.io/badge/GitHub-ILAKKIYAN12-blue?style=for-the-badge&logo=github)](https://github.com/ILAKKIYAN12)
+[![GitHub stars](https://img.shields.io/badge/GitHub-ILAKKIYAN12-blue?style=for-the-badge&logo=github)](https://github.com/ILAKKIYAN12/Loanstat_Reasoner)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
@@ -8,7 +8,7 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-> **"Trust the AI"** is a full-stack, production-ready Explainable AI (XAI) platform designed to eliminate the algorithmic "black box" in banking and financial credit underwriting. Powered by **SHAP (SHapley Additive exPlanations)**, **LIME (Local Interpretable Model-agnostic Explanations)**, **React 18**, and **Three.js / React Three Fiber**, this system enables loan applicants and financial officers to visually inspect, interact with, and mathematically verify loan approval decisions in real time.
+> **Loanstat Reasoner** ("Trust the AI") is a full-stack, production-ready Explainable AI (XAI) platform designed to eliminate the algorithmic "black box" in banking and financial credit underwriting. Powered by **SHAP (SHapley Additive exPlanations)**, **LIME (Local Interpretable Model-agnostic Explanations)**, **React 18**, and **Three.js / React Three Fiber**, this system enables loan applicants and financial officers to visually inspect, interact with, and mathematically verify loan approval decisions in real time.
 
 ---
 
