@@ -244,7 +244,7 @@ The frontend is pre-configured for instant zero-configuration deployment on **Ve
 
 ## 👤 Author & Acknowledgments
 
-- **Lead Developer**: [ILAKKIYAN12](https://github.com/ILAKKIYAN12)
+- **Lead Developer**: [ILAKKIYAN](https://github.com/ILAKKIYAN12)
 - **GitHub Profile**: [@ILAKKIYAN12](https://github.com/ILAKKIYAN12)
 - **Special Thanks**: Scikit-Learn, SHAP, and the React Three Fiber open-source communities.
 
